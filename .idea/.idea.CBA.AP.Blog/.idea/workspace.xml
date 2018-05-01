@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="950d7a9c-1d11-42e8-a934-1d5701fac6c6" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+              <folding>
+                <marker date="1524846100927" expanded="false" signature="6:520" ph="..." />
+                <marker date="1524846100927" expanded="true" signature="543:2050" ph="{...}" />
+                <marker date="1524846100927" expanded="true" signature="570:2048" ph="{...}" />
+                <marker date="1524846100927" expanded="true" signature="686:981" ph="{...}" />
+                <marker date="1524846100927" expanded="true" signature="1158:1558" ph="{...}" />
+                <marker date="1524846100927" expanded="true" signature="1746:2042" ph="{...}" />
+                <marker date="1524846100927" expanded="true" signature="1793:1870" ph="{...}" />
+                <marker date="1524846100927" expanded="true" signature="1887:1971" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_ViewImports.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/Views/_ViewImports.cshtml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+              <folding>
+                <marker date="1524855406347" expanded="true" signature="6:139" ph="..." />
+                <marker date="1524855406347" expanded="true" signature="174:851" ph="{...}" />
+                <marker date="1524855406347" expanded="true" signature="221:849" ph="{...}" />
+                <marker date="1524855406347" expanded="true" signature="335:399" ph="{...}" />
+                <marker date="1524855406347" expanded="true" signature="472:581" ph="{...}" />
+                <marker date="1524855406347" expanded="true" signature="659:706" ph="{...}" />
+                <marker date="1524855406347" expanded="true" signature="796:843" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/Views/Home/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
+              <folding>
+                <marker date="1524856716275" expanded="true" signature="7:48" ph="@..." />
+                <marker date="1524856716275" expanded="true" signature="50:3047" ph="&lt;div.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="141:446" ph="&lt;ol.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="451:2590" ph="&lt;div.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="503:993" ph="&lt;div.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="625:978" ph="&lt;div.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="686:959" ph="&lt;p.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="785:938" ph="&lt;a.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="1002:1515" ph="&lt;div.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="1123:1500" ph="&lt;div.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="1184:1481" ph="&lt;p.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="1307:1460" ph="&lt;a.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="1524:2042" ph="&lt;div.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="1650:2027" ph="&lt;div.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="1711:2008" ph="&lt;p.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="1834:1987" ph="&lt;a.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="2051:2579" ph="&lt;div.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="2174:2564" ph="&lt;div.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="2235:2545" ph="&lt;p.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="2371:2524" ph="&lt;a.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="2595:2816" ph="&lt;a.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="2821:3040" ph="&lt;a.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="3049:5336" ph="&lt;div.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="3071:3328" ph="&lt;div.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="3136:3317" ph="&lt;ul.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="3333:4006" ph="&lt;div.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="3388:3995" ph="&lt;ul.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="4011:4894" ph="&lt;div.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="4068:4883" ph="&lt;ul.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="4899:5329" ph="&lt;div.../&gt;" />
+                <marker date="1524856716275" expanded="true" signature="4964:5318" ph="&lt;ul.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlogRepository.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/Repositories/BlogRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <marker date="1524858191543" expanded="true" signature="6:168" ph="..." />
+                <marker date="1524858191543" expanded="true" signature="219:907" ph="{...}" />
+                <marker date="1524858191543" expanded="true" signature="271:905" ph="{...}" />
+                <marker date="1524858191543" expanded="true" signature="383:443" ph="{...}" />
+                <marker date="1524858191543" expanded="true" signature="500:899" ph="{...}" />
+                <marker date="1524858191543" expanded="true" signature="796:889" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlogService.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Services/BlogService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+              <folding>
+                <marker date="1524854775329" expanded="true" signature="6:174" ph="..." />
+                <marker date="1524854775329" expanded="true" signature="206:587" ph="{...}" />
+                <marker date="1524854775329" expanded="true" signature="252:585" ph="{...}" />
+                <marker date="1524854775329" expanded="true" signature="375:445" ph="{...}" />
+                <marker date="1524854775329" expanded="true" signature="502:579" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Post.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Domain/Models/Post.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <marker date="1524858025219" expanded="true" signature="6:59" ph="..." />
+                <marker date="1524858025219" expanded="true" signature="96:318" ph="{...}" />
+                <marker date="1524858025219" expanded="true" signature="120:316" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Comment.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Domain/Models/Comment.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+              <folding>
+                <marker date="1524858063681" expanded="true" signature="35:159" ph="{...}" />
+                <marker date="1524858063681" expanded="true" signature="62:157" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+              <folding>
+                <marker date="1524840962082" expanded="false" signature="6:255" ph="..." />
+                <marker date="1524840962082" expanded="true" signature="278:599" ph="{...}" />
+                <marker date="1524840962082" expanded="true" signature="305:597" ph="{...}" />
+                <marker date="1524840962082" expanded="true" signature="358:416" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog.Domain/Repositories/IBlogRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C78A7D9B-66E3-4070-9A92-5E649D7AD20C/dc/02f9c4d2/WebHost.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B3824083-29EE-4512-A838-FCA9F4A05F42/41/7db99cc6/ServiceCollectionServiceExtensions.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D16D35CF-F02B-4ED2-893D-5501E0442AAF/22/8e1e6bd0/ConfigureServicesBuilder.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/Options/DbOptions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/Repositories/BlogRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D16D35CF-F02B-4ED2-893D-5501E0442AAF/f8/7c969ddd/StartupLoader.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog.Services/Interfaces/IBlogService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D16D35CF-F02B-4ED2-893D-5501E0442AAF/d4/79175805/ConventionBasedStartup.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog.Services/BlogService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/DbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D16D35CF-F02B-4ED2-893D-5501E0442AAF/0d/e3d94ff8/WebHost.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/490CA514-566E-4368-9FA7-FB758FA48F6E/d6/d0c30159/MySqlConnection.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D16D35CF-F02B-4ED2-893D-5501E0442AAF/4e/b5176552/ConfigureBuilder.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog.Domain/Models/Post.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D85C908-D676-49C8-A469-C19A74522F33/1f/1f8d9dca/ExecutionContext.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/94C3CF26-73D6-49A3-98FE-7E087F2EC01C/95/44df8087/DbConnection.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog/Views/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog.Domain/Models/Comment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CBA.AP.Blog/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Web/Class1.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Web/CBA.AP.Blog.Web.csproj" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Web/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog/Program.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog/CBA.AP.Blog.csproj" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Domain/Class1.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Repositories.Interfaces/Class1.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/Class1.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Services/Class1.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/Options/DbOptions.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/DbContext.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog/Startup.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Domain/Repositories/IBlogRepository.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Services/Interfaces/IBlogService.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Services/BlogService.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog/appsettings.json" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog/Views/_ViewImports.cshtml" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Domain/Models/Post.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Domain/Models/Comment.cs" />
+        <option value="$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/Repositories/BlogRepository.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="85" />
+    <option name="y" value="-14" />
+    <option name="width" value="1750" />
+    <option name="height" value="969" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CBA.AP.Blog (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CBA.AP.Blog (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CBA.AP.Blog (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CBA.AP.Blog" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CBA.AP.Blog (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CBA.AP.Blog" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CBA.AP.Blog (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CBA.AP.Blog" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dependencies" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name=".NETCoreApp 2" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CBA.AP.Blog (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CBA.AP.Blog" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CBA.AP.Blog (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CBA.AP.Blog" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Home" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CBA.AP.Blog (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CBA.AP.Blog.Domain" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CBA.AP.Blog (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CBA.AP.Blog.Infrastructure" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="CBA.AP.Blog (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CBA.AP.Blog.Services" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/CBA.AP.Blog/bin/Debug/netcoreapp2.0/CBA.AP.Blog.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CBA.AP.Blog" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CBA.AP.Blog/CBA.AP.Blog.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+    <configuration name="src\dummy2" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/dummy2/bin/Debug/netcoreapp2.0/dummy2.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dummy2" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/dummy2/dummy2.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+      <item itemvalue=".NET Project.src\dummy2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.src\dummy2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="950d7a9c-1d11-42e8-a934-1d5701fac6c6" name="Default" comment="" />
+      <created>1524834420886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524834420886</updated>
+      <workItem from="1524834423237" duration="3481000" />
+      <workItem from="1524839301656" duration="13815000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17296000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32909605" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.24152543" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23288591" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" weight="0.32909605" />
+      <window_info anchor="right" id="Database" order="4" weight="0.22483222" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23728813" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dummy/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="46" column="9" selection-start-line="13" selection-start-column="8" selection-end-line="46" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dummy/Program.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dummy/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Web/CBA.AP.Blog.Web.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/Models/ErrorViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6D85C908-D676-49C8-A469-C19A74522F33/1f/1f8d9dca/ExecutionContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="99" column="6" selection-start-line="99" selection-start-column="6" selection-end-line="99" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dummy2/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dummy2/bundleconfig.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dummy2/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dummy2/dummy2.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/CBA.AP.Blog.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="33" column="76" selection-start-line="33" selection-start-column="76" selection-end-line="33" selection-end-column="76" />
+          <folding>
+            <marker date="1524838764255" expanded="true" signature="16:3304" ph="&lt;html.../&gt;" />
+            <marker date="1524838764255" expanded="true" signature="23:839" ph="&lt;head.../&gt;" />
+            <marker date="1524838764255" expanded="true" signature="187:377" ph="&lt;environment.../&gt;" />
+            <marker date="1524838764255" expanded="true" signature="382:831" ph="&lt;environment.../&gt;" />
+            <marker date="1524838764255" expanded="true" signature="840:3296" ph="&lt;body.../&gt;" />
+            <marker date="1524838764255" expanded="true" signature="851:1908" ph="&lt;nav.../&gt;" />
+            <marker date="1524838764255" expanded="true" signature="912:1897" ph="&lt;div.../&gt;" />
+            <marker date="1524838764255" expanded="true" signature="948:1458" ph="&lt;div.../&gt;" />
+            <marker date="1524838764255" expanded="true" signature="992:1336" ph="&lt;button.../&gt;" />
+            <marker date="1524838764255" expanded="true" signature="1471:1882" ph="&lt;div.../&gt;" />
+            <marker date="1524838764255" expanded="true" signature="1526:1863" ph="&lt;ul.../&gt;" />
+            <marker date="1524838764255" expanded="true" signature="1913:2071" ph="&lt;div.../&gt;" />
+            <marker date="1524838764255" expanded="true" signature="1995:2060" ph="&lt;footer.../&gt;" />
+            <marker date="1524838764255" expanded="true" signature="2077:2331" ph="&lt;environment.../&gt;" />
+            <marker date="1524838764255" expanded="true" signature="2336:3240" ph="&lt;environment.../&gt;" />
+            <marker date="1524838764255" expanded="true" signature="2380:2728" ph="&lt;script.../&gt;" />
+            <marker date="1524838764255" expanded="true" signature="2737:3146" ph="&lt;script.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Repositories.Interfaces/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Domain/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Services/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/Options/DbOptions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="48" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="48" />
+          <folding>
+            <marker date="1524844975573" expanded="true" signature="81:240" ph="{...}" />
+            <marker date="1524844975573" expanded="true" signature="132:238" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/94C3CF26-73D6-49A3-98FE-7E087F2EC01C/95/44df8087/DbConnection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="103" column="110" lean-forward="true" selection-start-line="103" selection-start-column="110" selection-end-line="103" selection-end-column="110" />
+          <folding>
+            <marker date="1524845584007" expanded="true" signature="0:364" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1524845584007" expanded="false" signature="372:475" ph="..." />
+            <marker date="1524845584007" expanded="true" signature="505:9674" ph="{...}" />
+            <marker date="1524845584007" expanded="true" signature="648:9672" ph="{...}" />
+            <marker date="1524845584007" expanded="true" signature="657:961" ph="///Gets or sets the string used to open the connection. ... " />
+            <marker date="1524845584007" expanded="true" signature="1162:1464" ph="///Gets the time to wait while establishing a connection before terminating the attempt and generating an error. ... " />
+            <marker date="1524845584007" expanded="true" signature="1520:1866" ph="///Gets the name of the current database after a connection is opened, or the database name specified in the conn ... " />
+            <marker date="1524845584007" expanded="true" signature="1917:2115" ph="///Gets the name of the database server to which to connect. ... " />
+            <marker date="1524845584007" expanded="true" signature="2168:2446" ph="///Gets the &lt;see cref=&quot;T:System.Data.Common.DbProviderFactory&quot;&gt;&lt;/see&gt; for this &lt;see cref=&quot;T:System.Data.Common.Db ... " />
+            <marker date="1524845584007" expanded="true" signature="2519:3093" ph="///Gets a string that represents the version of the server to which the object is connected. ... " />
+            <marker date="1524845584007" expanded="true" signature="3172:3400" ph="///Gets a string that describes the state of the connection. ... " />
+            <marker date="1524845584007" expanded="true" signature="3480:3574" ph="///Occurs when the state of the event changes. ... " />
+            <marker date="1524845584007" expanded="true" signature="3642:3862" ph="///Starts a database transaction. ... " />
+            <marker date="1524845584007" expanded="true" signature="3968:4092" ph="///Starts a database transaction. ... " />
+            <marker date="1524845584007" expanded="true" signature="4143:4398" ph="///Starts a database transaction with the specified isolation level. ... " />
+            <marker date="1524845584007" expanded="true" signature="4490:4670" ph="///Changes the current database for an open connection. ... " />
+            <marker date="1524845584007" expanded="true" signature="4738:5002" ph="///Closes the connection to the database. This is the preferred method of closing any open connection. ... " />
+            <marker date="1524845584007" expanded="true" signature="5042:5270" ph="///Creates and returns a &lt;see cref=&quot;T:System.Data.Common.DbCommand&quot;&gt;&lt;/see&gt; object associated with the current con ... " />
+            <marker date="1524845584007" expanded="true" signature="5314:5542" ph="///Creates and returns a &lt;see cref=&quot;T:System.Data.Common.DbCommand&quot;&gt;&lt;/see&gt; object associated with the current con ... " />
+            <marker date="1524845584007" expanded="true" signature="5600:5802" ph="///Enlists in the specified transaction. ... " />
+            <marker date="1524845584007" expanded="true" signature="5876:6113" ph="///Returns schema information for the data source of this &lt;see cref=&quot;T:System.Data.Common.DbConnection&quot;&gt;&lt;/see&gt;. ... " />
+            <marker date="1524845584007" expanded="true" signature="6161:6679" ph="///Returns schema information for the data source of this &lt;see cref=&quot;T:System.Data.Common.DbConnection&quot;&gt;&lt;/see&gt; us ... " />
+            <marker date="1524845584007" expanded="true" signature="6748:7436" ph="///Returns schema information for the data source of this &lt;see cref=&quot;T:System.Data.Common.DbConnection&quot;&gt;&lt;/see&gt; us ... " />
+            <marker date="1524845584007" expanded="true" signature="7533:7766" ph="///Raises the &lt;see cref=&quot;E:System.Data.Common.DbConnection.StateChange&quot;&gt;&lt;/see&gt; event. ... " />
+            <marker date="1524845584007" expanded="true" signature="8043:8533" ph="///An asynchronous version of &lt;see cref=&quot;M:System.Data.Common.DbConnection.Open&quot;&gt;&lt;/see&gt;, which opens a database c ... " />
+            <marker date="1524845584007" expanded="true" signature="8568:9400" ph="///This is the asynchronous version of &lt;see cref=&quot;M:System.Data.Common.DbConnection.Open&quot;&gt;&lt;/see&gt;. Providers shoul ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/490CA514-566E-4368-9FA7-FB758FA48F6E/d6/d0c30159/MySqlConnection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="84" column="48" selection-start-line="84" selection-start-column="48" selection-end-line="84" selection-end-column="48" />
+          <folding>
+            <marker date="1524845566989" expanded="true" signature="0:328" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1524845566989" expanded="false" signature="336:666" ph="..." />
+            <marker date="1524845566989" expanded="true" signature="700:82901" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="705:3724" ph="///   Represents an open connection to a MySQL Server database. This class cannot be inherited. ... " />
+            <marker date="1524845566989" expanded="true" signature="3840:82899" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="4363:4502" ph="///Occurs when MySQL returns warnings as a result of executing a command or query. ... " />
+            <marker date="1524845566989" expanded="true" signature="4567:6686" ph="///   Initializes a new instance of the &lt;see cref=&quot;T:MySql.Data.MySqlClient.MySqlConnection&quot; /&gt; class. ... " />
+            <marker date="1524845566989" expanded="true" signature="6715:6822" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="6828:8916" ph="///   Initializes a new instance of the &lt;see cref=&quot;T:MySql.Data.MySqlClient.MySqlConnection&quot; /&gt; class when given  ... " />
+            <marker date="1524845566989" expanded="true" signature="8983:9094" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="9118:9157" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="9401:9588" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="9417:9469" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="9479:9582" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="9653:9875" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="9905:10095" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="9921:10089" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="10142:10250" ph="/// Returns the id of the server thread this connection is executing on ... " />
+            <marker date="1524845566989" expanded="true" signature="10301:10376" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="10317:10370" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="10382:10477" ph="/// Gets the name of the MySQL server to which to connect. ... " />
+            <marker date="1524845566989" expanded="true" signature="10537:10612" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="10553:10606" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="10618:12013" ph="///   Gets the time to wait while trying to establish a connection before terminating the attempt and generating  ... " />
+            <marker date="1524845566989" expanded="true" signature="12077:12169" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="12093:12163" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="12175:14614" ph="///Gets the name of the current database or the database to be used after a connection is opened. ... " />
+            <marker date="1524845566989" expanded="true" signature="14672:14741" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="14688:14735" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="14747:14875" ph="/// Indicates if this connection should use compression when communicating with the server. ... " />
+            <marker date="1524845566989" expanded="true" signature="14929:15012" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="14945:15006" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="15018:16757" ph="///Gets the current state of the connection. ... " />
+            <marker date="1524845566989" expanded="true" signature="16822:16897" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="16838:16891" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="16903:18274" ph="///Gets a string containing the version of the MySQL server to which the client is connected. ... " />
+            <marker date="1524845566989" expanded="true" signature="18338:18423" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="18354:18417" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="18429:40794" ph="///Gets or sets the string used to connect to a MySQL Server database. ... " />
+            <marker date="1524845566989" expanded="true" signature="41009:42296" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="41025:41147" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="41157:42290" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="41538:41636" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="41651:42006" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="41796:41994" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="42356:42458" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="42372:42452" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="42493:42577" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="42509:42571" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="42677:42881" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="42933:42992" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="43045:43156" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="43162:48395" ph="///Begins a database transaction. ... " />
+            <marker date="1524845566989" expanded="true" signature="48442:48533" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="48539:53899" ph="///Begins a database transaction with the specified isolation level. ... " />
+            <marker date="1524845566989" expanded="true" signature="53976:55565" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="54514:55359" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="55571:58365" ph="///Changes the current database for an open MySqlConnection. ... " />
+            <marker date="1524845566989" expanded="true" signature="58426:58960" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="59040:59376" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="59382:59437" ph="///Ping ... " />
+            <marker date="1524845566989" expanded="true" signature="59460:59761" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="59767:61524" ph="///Opens a database connection with the property settings specified by the ConnectionString. ... " />
+            <marker date="1524845566989" expanded="true" signature="61556:63977" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="62001:62371" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="62381:63243" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="62525:62724" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="62759:63001" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="63014:63235" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="63270:63354" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="63983:64294" ph="///   Creates and returns a &lt;see cref=&quot;T:MySql.Data.MySqlClient.MySqlCommand&quot; /&gt; object associated with the &lt;see  ... " />
+            <marker date="1524845566989" expanded="true" signature="64334:64401" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="64428:64771" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="64444:64489" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="64516:64654" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="64668:64714" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="64803:65175" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="64864:65094" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="65181:66797" ph="///Closes the connection to the database. This is the preferred method of closing any open connection. ... " />
+            <marker date="1524845566989" expanded="true" signature="66830:67281" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="67069:67224" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="67320:67495" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="67555:68388" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="67628:67804" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="67814:68031" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="67924:68023" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="68059:68247" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="68430:68992" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="68570:68677" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="68696:68986" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="69049:69263" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="69269:69519" ph="/// Sets query timeout. If timeout has been set prior and not ... " />
+            <marker date="1524845566989" expanded="true" signature="69566:69797" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="69803:69911" ph="/// Clears query timeout, allowing next SetCommandTimeout() to succeed. ... " />
+            <marker date="1524845566989" expanded="true" signature="69951:70147" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="70252:70518" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="70524:71181" ph="///Empties the connection pool associated with the specified connection. ... " />
+            <marker date="1524845566989" expanded="true" signature="71242:71309" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="71315:71638" ph="///Clears all connection pools. ... " />
+            <marker date="1524845566989" expanded="true" signature="71677:71729" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="71768:71888" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="71919:71999" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="72005:72171" ph="/// Initiates the asynchronous execution of a transaction. ... " />
+            <marker date="1524845566989" expanded="true" signature="72229:72349" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="72443:72558" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="72564:72786" ph="///Async version of BeginTransaction ... " />
+            <marker date="1524845566989" expanded="true" signature="72874:72956" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="73082:73644" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="73299:73551" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="73319:73449" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="73478:73543" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="73702:73791" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="73797:74023" ph="///Async version of ChangeDataBase ... " />
+            <marker date="1524845566989" expanded="true" signature="74117:74590" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="74310:74541" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="74330:74439" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="74468:74533" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="74596:74669" ph="///Async version of Close ... " />
+            <marker date="1524845566989" expanded="true" signature="74698:74764" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="74829:75332" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="75022:75232" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="75042:75130" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="75159:75224" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="75338:75511" ph="///Async version of ClearPool ... " />
+            <marker date="1524845566989" expanded="true" signature="75570:75652" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="75749:76277" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="75942:76177" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="75962:76075" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="76104:76169" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="76283:76364" ph="///Async version of ClearAllPools ... " />
+            <marker date="1524845566989" expanded="true" signature="76401:76475" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="76548:77070" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="76741:76970" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="76761:76868" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="76897:76962" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="77076:77317" ph="///Async version of GetSchemaCollection ... " />
+            <marker date="1524845566989" expanded="true" signature="77432:77547" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="77700:78330" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="77927:78237" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="77947:78135" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="78164:78229" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="78336:78584" ph="/// Returns schema information for the data source of this &lt;see cref=&quot;T:System.Data.Common.DbConnection&quot; /&gt;. ... " />
+            <marker date="1524845566989" expanded="true" signature="78626:78682" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="78688:79081" ph="/// Returns schema information for the data source of this ... " />
+            <marker date="1524845566989" expanded="true" signature="79144:79308" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="79314:79883" ph="/// Returns schema information for the data source of this &lt;see cref=&quot;T:System.Data.Common.DbConnection&quot; /&gt; ... " />
+            <marker date="1524845566989" expanded="true" signature="79974:80254" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="80260:80476" ph="///Enlists in the specified transaction. ... " />
+            <marker date="1524845566989" expanded="true" signature="80544:82022" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="80661:80842" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="80978:81463" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="82060:82409" ph="{...}" />
+            <marker date="1524845566989" expanded="true" signature="82415:82594" ph="/// Creates a new MySqlConnection object with the exact same ConnectionString value ... " />
+            <marker date="1524845566989" expanded="true" signature="82620:82895" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/DbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <marker date="1524846100862" expanded="true" signature="6:126" ph="..." />
+            <marker date="1524846100862" expanded="true" signature="164:515" ph="{...}" />
+            <marker date="1524846100862" expanded="true" signature="193:513" ph="{...}" />
+            <marker date="1524846100862" expanded="true" signature="302:368" ph="{...}" />
+            <marker date="1524846100862" expanded="true" signature="414:507" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Services/Interfaces/IBlogService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+          <folding>
+            <marker date="1524854746497" expanded="true" signature="6:96" ph="..." />
+            <marker date="1524854746497" expanded="true" signature="139:233" ph="{...}" />
+            <marker date="1524854746497" expanded="true" signature="175:231" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Domain/Repositories/IBlogRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <marker date="1524854611087" expanded="true" signature="6:96" ph="..." />
+            <marker date="1524854611087" expanded="true" signature="139:236" ph="{...}" />
+            <marker date="1524854611087" expanded="true" signature="178:234" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="93" selection-start-line="2" selection-start-column="93" selection-end-line="2" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C78A7D9B-66E3-4070-9A92-5E649D7AD20C/dc/02f9c4d2/WebHost.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="154" column="6" selection-start-line="154" selection-start-column="6" selection-end-line="154" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B3824083-29EE-4512-A838-FCA9F4A05F42/41/7db99cc6/ServiceCollectionServiceExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="200" column="6" selection-start-line="200" selection-start-column="6" selection-end-line="200" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D16D35CF-F02B-4ED2-893D-5501E0442AAF/22/8e1e6bd0/ConfigureServicesBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D16D35CF-F02B-4ED2-893D-5501E0442AAF/f8/7c969ddd/StartupLoader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D16D35CF-F02B-4ED2-893D-5501E0442AAF/d4/79175805/ConventionBasedStartup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D16D35CF-F02B-4ED2-893D-5501E0442AAF/0d/e3d94ff8/WebHost.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="132" column="6" selection-start-line="132" selection-start-column="6" selection-end-line="132" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D16D35CF-F02B-4ED2-893D-5501E0442AAF/4e/b5176552/ConfigureBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/Views/_ViewImports.cshtml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding>
+            <marker date="1524840962082" expanded="false" signature="6:255" ph="..." />
+            <marker date="1524840962082" expanded="true" signature="278:599" ph="{...}" />
+            <marker date="1524840962082" expanded="true" signature="305:597" ph="{...}" />
+            <marker date="1524840962082" expanded="true" signature="358:416" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+          <folding>
+            <marker date="1524846100927" expanded="false" signature="6:520" ph="..." />
+            <marker date="1524846100927" expanded="true" signature="543:2050" ph="{...}" />
+            <marker date="1524846100927" expanded="true" signature="570:2048" ph="{...}" />
+            <marker date="1524846100927" expanded="true" signature="686:981" ph="{...}" />
+            <marker date="1524846100927" expanded="true" signature="1158:1558" ph="{...}" />
+            <marker date="1524846100927" expanded="true" signature="1746:2042" ph="{...}" />
+            <marker date="1524846100927" expanded="true" signature="1793:1870" ph="{...}" />
+            <marker date="1524846100927" expanded="true" signature="1887:1971" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+          <folding>
+            <marker date="1524856716275" expanded="true" signature="7:48" ph="@..." />
+            <marker date="1524856716275" expanded="true" signature="50:3047" ph="&lt;div.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="141:446" ph="&lt;ol.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="451:2590" ph="&lt;div.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="503:993" ph="&lt;div.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="625:978" ph="&lt;div.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="686:959" ph="&lt;p.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="785:938" ph="&lt;a.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="1002:1515" ph="&lt;div.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="1123:1500" ph="&lt;div.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="1184:1481" ph="&lt;p.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="1307:1460" ph="&lt;a.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="1524:2042" ph="&lt;div.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="1650:2027" ph="&lt;div.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="1711:2008" ph="&lt;p.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="1834:1987" ph="&lt;a.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="2051:2579" ph="&lt;div.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="2174:2564" ph="&lt;div.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="2235:2545" ph="&lt;p.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="2371:2524" ph="&lt;a.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="2595:2816" ph="&lt;a.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="2821:3040" ph="&lt;a.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="3049:5336" ph="&lt;div.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="3071:3328" ph="&lt;div.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="3136:3317" ph="&lt;ul.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="3333:4006" ph="&lt;div.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="3388:3995" ph="&lt;ul.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="4011:4894" ph="&lt;div.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="4068:4883" ph="&lt;ul.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="4899:5329" ph="&lt;div.../&gt;" />
+            <marker date="1524856716275" expanded="true" signature="4964:5318" ph="&lt;ul.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Services/BlogService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding>
+            <marker date="1524854775329" expanded="true" signature="6:174" ph="..." />
+            <marker date="1524854775329" expanded="true" signature="206:587" ph="{...}" />
+            <marker date="1524854775329" expanded="true" signature="252:585" ph="{...}" />
+            <marker date="1524854775329" expanded="true" signature="375:445" ph="{...}" />
+            <marker date="1524854775329" expanded="true" signature="502:579" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Domain/Models/Comment.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+          <folding>
+            <marker date="1524858063681" expanded="true" signature="35:159" ph="{...}" />
+            <marker date="1524858063681" expanded="true" signature="62:157" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Domain/Models/Post.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <marker date="1524858025219" expanded="true" signature="6:59" ph="..." />
+            <marker date="1524858025219" expanded="true" signature="96:318" ph="{...}" />
+            <marker date="1524858025219" expanded="true" signature="120:316" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog.Infrastructure/Repositories/BlogRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <marker date="1524858191543" expanded="true" signature="6:168" ph="..." />
+            <marker date="1524858191543" expanded="true" signature="219:907" ph="{...}" />
+            <marker date="1524858191543" expanded="true" signature="271:905" ph="{...}" />
+            <marker date="1524858191543" expanded="true" signature="383:443" ph="{...}" />
+            <marker date="1524858191543" expanded="true" signature="500:899" ph="{...}" />
+            <marker date="1524858191543" expanded="true" signature="796:889" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CBA.AP.Blog/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <marker date="1524855406347" expanded="true" signature="6:139" ph="..." />
+            <marker date="1524855406347" expanded="true" signature="174:851" ph="{...}" />
+            <marker date="1524855406347" expanded="true" signature="221:849" ph="{...}" />
+            <marker date="1524855406347" expanded="true" signature="335:399" ph="{...}" />
+            <marker date="1524855406347" expanded="true" signature="472:581" ph="{...}" />
+            <marker date="1524855406347" expanded="true" signature="659:706" ph="{...}" />
+            <marker date="1524855406347" expanded="true" signature="796:843" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
